@@ -1,0 +1,15 @@
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\bin\Debug\net6.0\array-of-numbers.exe
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\bin\Debug\net6.0\array-of-numbers.deps.json
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\bin\Debug\net6.0\array-of-numbers.runtimeconfig.json
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\bin\Debug\net6.0\array-of-numbers.dll
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\bin\Debug\net6.0\array-of-numbers.pdb
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\array-of-numbers.csproj.AssemblyReference.cache
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\array-of-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\array-of-numbers.AssemblyInfoInputs.cache
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\array-of-numbers.AssemblyInfo.cs
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\array-of-numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\array-of-numbers.dll
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\refint\array-of-numbers.dll
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\array-of-numbers.pdb
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\array-of-numbers.genruntimeconfig.cache
+C:\Users\User\Progra - Tareas\Tarea 13 - Ordenamiento de un Array C#\array-of-numbers\obj\Debug\net6.0\ref\array-of-numbers.dll
